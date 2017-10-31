@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Yannick
+Build-Jdk: 1.8.0_144
+Package: com.hello
+Main-Class: com.hello.hello
+Created-By: Maven Integration for Eclipse
+mode: development
+url: 
+
